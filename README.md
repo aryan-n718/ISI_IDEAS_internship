@@ -40,5 +40,23 @@ The objective was to detect fault conditions in electric motors using **back EMF
 
 ---
 
-## 📂 Project Structure
+## 📌 Features Extracted
+
+### Time-Domain Features:
+- **Mean**
+- **Root Mean Square (RMS)**
+- **Peak**
+- **Skewness & Kurtosis**
+- **Crest Factor**
+- **Peak-to-Peak**
+- **Impulse Factor**
+- **Shape Factor**
+- **Clearance Factor**
+
+### Frequency-Domain Features:
+- **FFT Harmonics (up to 19th)**
+- **Total Harmonic Distortion (THD)**
+
+All these features were extracted for **each phase** of the motor (R, Y, B).
+
 
