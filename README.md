@@ -58,5 +58,9 @@ The objective was to detect fault conditions in electric motors using **back EMF
 - **Total Harmonic Distortion (THD)**
 
 All these features were extracted for **each phase** of the motor (R, Y, B).
+## 📚 Extended Notes
+
+For detailed project notes and theory behind the analysis:  
+🔗 [Project Report & Notes on Notion](https://www.notion.so/ISI-Project-notes-2113447f1de1802dba5fe1287e7f199a)
 
 
